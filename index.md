@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 # Mi página de GitHub
 ## Bienvenido
